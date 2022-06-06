@@ -1,10 +1,10 @@
-a2047.r.akamai.net
-mcs-va.tiktok.com
-m.tiktok.com
-tiktok.com
-m.tiktok.com.edgesuite.net
-a2047.mm2.akamai.net
-p77-sign-sg.tiktokcdn.com
-e35058.a.akamaiedge.net
-1450622545.rsc.cdn77.org
-1006686430.rsc.cdn77.org
+0.0.0.0 a2047.r.akamai.net
+0.0.0.0 mcs-va.tiktok.com
+0.0.0.0 m.tiktok.com
+0.0.0.0 tiktok.com
+0.0.0.0 m.tiktok.com.edgesuite.net
+0.0.0.0 a2047.mm2.akamai.net
+0.0.0.0 p77-sign-sg.tiktokcdn.com
+0.0.0.0 e35058.a.akamaiedge.net
+0.0.0.0 1450622545.rsc.cdn77.org
+0.0.0.0 1006686430.rsc.cdn77.org
