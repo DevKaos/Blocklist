@@ -3648,3 +3648,4 @@
 0.0.0.0 v39-eu-p.tiktokcdn.com
 0.0.0.0 v39-eu-p.tiktokcdn.com
 0.0.0.0 v39-eu-p.gts.byteoversea.net
+0.0.0.0 pitaya-va.tiktokv.com
