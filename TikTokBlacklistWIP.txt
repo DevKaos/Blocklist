@@ -3605,3 +3605,14 @@
 0.0.0.0 lf.snssdk.com.xi.zwtianshangm.com
 0.0.0.0 lf-hl.snssdk.com.xi.zwtianshangm.com
 0.0.0.0 mon.snssdk.com.xi.zwtianshangm.com
+0.0.0.0 a1992.dscd.akamai.net
+0.0.0.0 a1851.b.akamai.net
+0.0.0.0 e28622.a.akamaiedge.net
+0.0.0.0 mon16-normal-c-useast1a.tiktokv.com
+0.0.0.0 hotapi22-normal-useast1a.tiktokv.com
+0.0.0.0 p19-sign.tiktokcdn-us.com
+0.0.0.0 a434.b.akamai.net
+0.0.0.0 v39-eu.tiktokcdn.com
+0.0.0.0 p16-b-sign-va.ibyteimg.com
+0.0.0.0 p16-b-sign-va.ibyteimg.com.edgesuite.net
+0.0.0.0 api39-va.gts.byteoversea.net
