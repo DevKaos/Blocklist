@@ -3630,4 +3630,4 @@
 0.0.0.0 bsync-va.tiktokv.com
 0.0.0.0 all.quic-webcast-useast4-proxy-gcp-http.byteoversea.net
 0.0.0.0 hotapi16-normal-useast1a.tiktokv.com
-0.0.0.0 pitaya.tiktokv.com 
+0.0.0.0 pitaya.tiktokv.com
