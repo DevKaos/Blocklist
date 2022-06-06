@@ -1,5 +1,5 @@
 # MASTER BLOCK LIST FOR TIKTOK 2022
-# LIST AVAILABLE AT https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Windows/windowstelemetryblocklist.txt
+# LIST AVAILABLE AT https://raw.githubusercontent.com/DevKaos/Blocklist/main/TikTokBlacklistWIP.txt
 
 
 
