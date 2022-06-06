@@ -3636,3 +3636,9 @@
 0.0.0.0 zttvu.v.bsgslb.com
 0.0.0.0 zttvv.v.bsgslb.com
 0.0.0.0 zttvw.v.bsgslb.com
+
+
+0.0.0.0 lf16-tos-files.tiktokcdn.com
+0.0.0.0 log19-normal-useast1a.tiktokv.com
+0.0.0.0 39-dynamic-lhr1.tiktokcdn.com
+0.0.0.0 v39-dynamic.service.lhr1.g.byteoversea.net
