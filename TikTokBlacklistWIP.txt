@@ -3642,3 +3642,5 @@
 0.0.0.0 log19-normal-useast1a.tiktokv.com
 0.0.0.0 39-dynamic-lhr1.tiktokcdn.com
 0.0.0.0 v39-dynamic.service.lhr1.g.byteoversea.net
+0.0.0.0 sign-va-lite.tiktokcdn.com
+0.0.0.0 tnc16-platform-useast2a.tiktokv.com
